@@ -8,7 +8,7 @@ I've been learning about programming since 2021 and i'm interested with developi
 
 * 🌍  I'm based in Tangerang
 * ✉️  You can contact me at [nafgeng@gmail.com](mailto:nafgeng@gmail.com)
-* 🧠  I'm learning I'm learning about Kotlin and design
+* 🧠  I'm learning about Kotlin and design
 
 ### Skills
 
